@@ -2,8 +2,8 @@
 
 ## 1. Clone the repository  
 ```bash
-git clone https://github.com/repc24/BESS-RE
-cd BESS-RE
+git clone https://github.com/repc24/Oskarshamn
+cd Oskarshamn
 ```
 
 ## 2. Create and activate virtual environment  
